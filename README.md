@@ -5,11 +5,12 @@ This repository is an **old learning project** created while following the YouTu
 
 The goal was to build a simple **Amazon-style website clone** to practice the basics of **HTML, CSS, and JavaScript**.  
 I stopped working on this project on **June 2025**, and my skills have slightly improved since then so please don’t judge my current ability based on this early code 😄
-
+<br>
 ## 🗂️ Status
 **Status:** ❄️ *Freezing in Time — Not Continued*  
 Development stopped on: **15/6/2025**  
 The project is unfinished and contains many bugs. It remains here only as part of my learning journey.
+<br>
 
 ## 🎯 Purpose
 This project helped me learn:
@@ -21,6 +22,7 @@ This project helped me learn:
 - How an e-commerce page works  
 - Following a full beginner-friendly web dev course (I think)
 
+<br>
 
 ## 🐛 Known Issues
 Because the project was never completed:
@@ -29,11 +31,13 @@ Because the project was never completed:
 - UI layout issues  
 - Buggy JavaScript logic  
 - Stopped at **15/22 hours** of the course  
+<br>
 
 ## 🎬 Learning Source
 **Course:** *JavaScript Tutorial Full Course - Beginner to Pro*  
 **Creator:** SuperSimpleDev  
 **Platform:** YouTube
+<br>
 
 ## 📚 Why This Repo Exists
 - To archive my early web-dev work  
