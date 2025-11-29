@@ -1,6 +1,5 @@
-# 🌐 Amazon Clone Learning Project (Archived)
+## 🌐 Amazon Clone Learning Project (Archived)
 
-## 📁 Overview
 This repository is an **old learning project** created while following the YouTube course  
 **“JavaScript Tutorial Full Course - Beginner to Pro” by SuperSimpleDev.**
 
